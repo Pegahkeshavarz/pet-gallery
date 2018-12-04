@@ -1,0 +1,14 @@
+{
+  "name": "webdev-take-home-exercise-master for Asana",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pegah Keshavarz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
